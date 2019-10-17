@@ -1,1 +1,1 @@
-# airwise-Ranking-with-Similarity-Sampling-PRSS-
+# Pairwise-Ranking-with-Similarity-Sampling-(PRSS)
